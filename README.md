@@ -24,7 +24,7 @@
 > pkg install ffmpeg -y
 > pkg install imagemagick -y
 > pkg install yarn
-> git clone https://github.com/BrunoSobrino/Mystic-termux
+> git clone https://github.com/Correwalter/M
 > cd M
 > yarn install 
 > npm install
